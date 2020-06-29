@@ -1,0 +1,4 @@
+﻿  inequal.cpp
+c:\users\taehyun\source\repos\inequal\inequal\inequal.cpp(12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taehyun\source\repos\inequal\inequal\inequal.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  inequal.vcxproj -> C:\Users\Taehyun\source\repos\inequal\Debug\inequal.exe
